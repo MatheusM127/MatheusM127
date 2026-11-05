@@ -14,7 +14,7 @@ Sempre gostei de interpretar números e estatísticas, inclusive no futebol e em
 
 - 🎓 **Recursos Humanos** — Universidade Cruzeiro do Sul (concluído)
 - 📚 **Análise de Dados** — Hashtag Treinamentos, Comunidade Impressionadora (em andamento)
-- 💻 **Ciência da Computação** — graduação planejada para 2027
+- 💻 **Ciência da Computação** — graduação planejada para iniciar em 2027
 
 ## Minha trilha de aprendizado
 
