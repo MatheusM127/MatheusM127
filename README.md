@@ -1,50 +1,31 @@
 
 # Olá! Eu sou Matheus Moreno 👋
 
-📍 São Paulo, Brasil
+📍 São Paulo, Brasil  
+📊 Em transição de carreira para **Análise de Dados e Business Intelligence (BI)**
 
-💻 Em transição de carreira para **Análise de Dados e Business Intelligence (BI)**, com interesse futuro em **Engenharia de Dados**.
+## Sobre mim
 
-## 👨‍💻 Sobre mim
+Sou formado em **Recursos Humanos** e tenho experiência nas áreas **administrativa, financeira e de Departamento Pessoal**. No trabalho, tive contato com controles, conferência de informações, processos e sistemas de gestão — uma bagagem que quero levar para a área de Dados.
 
-Sou formado em Recursos Humanos e possuo experiência profissional nas áreas administrativa, financeira e de Departamento Pessoal.
+Sempre gostei de interpretar números e estatísticas, inclusive no futebol e em jogos de gestão como *Football Manager*. Hoje estou transformando esse interesse em um novo caminho profissional.
 
-Ao longo da minha trajetória, desenvolvi interesse pela organização de informações, análise de números e utilização de dados para apoiar decisões.
+## Formação e desenvolvimento
 
-Sempre gostei de estatísticas, especialmente no futebol e em jogos de gestão esportiva, como Football Manager. Esse interesse contribuiu para minha decisão de iniciar uma carreira na área de Dados.
+- 🎓 **Recursos Humanos** — Universidade Cruzeiro do Sul (concluído)
+- 📚 **Análise de Dados** — Hashtag Treinamentos, Comunidade Impressionadora (em andamento)
+- 💻 **Ciência da Computação** — graduação planejada para 2027
 
-Atualmente, estou me desenvolvendo por meio da **Comunidade Impressionadora da Hashtag Treinamentos** e pretendo iniciar minha graduação em **Ciência da Computação em 2027**.
+## Minha trilha de aprendizado
 
-Meu objetivo é unir minha experiência profissional aos conhecimentos técnicos que estou adquirindo para construir uma carreira sólida em tecnologia.
+**Foco atual:** fundamentos de Análise de Dados.  
+**Próximas competências:** Excel aplicado a dados, Power BI, SQL e Python.  
+**Interesse para o futuro:** bancos de dados, automação e Engenharia de Dados.
 
-## 📚 Atualmente estudando
+## Projetos
 
-- 📊 Análise de Dados e Business Intelligence
-- 🗃️ SQL e bancos de dados
-- 🐍 Python para análise e tratamento de dados
-- 📈 Power BI e visualização de informações
+Estou construindo minha base técnica para publicar projetos próprios de análise e tratamento de dados. Quando estiverem concluídos, vou documentar aqui o problema, os dados utilizados, as ferramentas e as principais descobertas.
 
-## 🎓 Formação
+## Contato
 
-- **Tecnólogo em Recursos Humanos** — Universidade Cruzeiro do Sul
-- **Ciência da Computação** — Início planejado para 2027
-- **Análise de Dados** — Hashtag Treinamentos (em andamento)
-
-## 🎯 Objetivos
-
-- Desenvolver conhecimentos em SQL, Python e Power BI.
-- Construir projetos práticos e compartilhá-los no GitHub.
-- Conquistar minha primeira oportunidade profissional na área de Dados.
-- Futuramente, aprofundar meus conhecimentos em Engenharia de Dados.
-
-## 🚀 Projetos
-
-Estou desenvolvendo meus conhecimentos para publicar meus primeiros projetos de Análise de Dados, automação e bancos de dados.
-
-Em breve, novos projetos estarão disponíveis aqui!
-
----
-
-📫 **Vamos nos conectar!**
-
-Estou aberto a trocar conhecimentos, aprender com outros profissionais e conhecer novas oportunidades na área de tecnologia.
+💼 [LinkedIn — Matheus Moreno Martins](https://www.linkedin.com/in/matheus-moreno-martins-8aa9ba1b1/)
